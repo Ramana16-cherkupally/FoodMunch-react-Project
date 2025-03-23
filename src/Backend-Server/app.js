@@ -37,7 +37,7 @@ app.post('/items', async (req, res) => {
   await storeItems(updatedItems);
   res.status(201).json({ message: 'Stored new item.', item: newItem });
 });
-const PORT=9002;
-app.listen(PORT,()=>{
-  console.log(`server is ready http://localhost:${PORT}`)
+const PORT = process.env.PORT || 9002;
+app.listen(PORT, () => {
+  console.log(`Server is ready at http://localhost:${PORT}`);
 });

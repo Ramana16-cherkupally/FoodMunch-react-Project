@@ -12,7 +12,7 @@ export const Home = () => {
   );
 
   return (
-    <main className="menu-items" style={{ margin: "5rem auto" }}>
+    <main style={{ margin: "4rem auto" }}>
       <div className="container">
         <div className="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-3 justify-content-center">
           {filteredItems.length > 0 ? (
