@@ -3,14 +3,12 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "scripts": {
-    "server": "nodemon src/Backend-Server/app.js",
-    "client": "vite",
-    "dev": "concurrently \"npm run server\" \"npm run client\"",
-    "build": "vite build",
-    "lint": "eslint .",
-    "preview": "vite preview"
-  },
+ "scripts": {
+  "client": "vite",
+  "dev": "vite", 
+  "build": "vite build",
+  "lint": "eslint ."
+},
   "dependencies": {
     "@reduxjs/toolkit": "^2.5.0",
     "bootstrap": "^5.3.3",

@@ -6,6 +6,7 @@ import { FetchStatusActions } from "../store/FetchStatusSlice";
 export const FetchItems = () => {
   const fetchstatus = useSelector((store) => store.fetchstatus);
   const dispatch = useDispatch();
+  const baseurl = "https://backend-server-node-js-1ujw.onrender.com/items";
 
   useEffect(() => {
     if (fetchstatus.fetchDone) return; // ✅ Skip fetch if already done
@@ -16,7 +17,7 @@ export const FetchItems = () => {
 
     dispatch(FetchStatusActions.FetchingStarted());
 
-    fetch("http://localhost:9002/items", { signal })
+    fetch(baseurl, { signal })
       .then((res) => {
         if (!res.ok) throw new Error(`Failed with status ${res.status}`);
         return res.json();
