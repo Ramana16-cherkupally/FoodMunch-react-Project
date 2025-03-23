@@ -1,0 +1,707 @@
+
+{
+  "items": [
+    [
+      {
+        "id": 101,
+        "name": "Hyderabadi Biryani",
+        "description": "Classic Hyderabadi style biryani made with marinated chicken",
+        "price": 270,
+        "actualPrice": 320,
+        "discount": 50,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/1410130688/photo/mutton-biryani-served-in-a-golden-dish-isolated-on-dark-background-side-view-indian-food.jpg?s=612x612&w=0&k=20&c=ueFrghYZuKAty-rFVe5dtMtNIbn0jaUsSvCUwTVOmd8="
+      },
+      {
+        "id": 102,
+        "name": "Chicken Dum Biryani",
+        "description": "Slow-cooked chicken biryani with a rich blend of spices and saffron.",
+        "price": 280,
+        "actualPrice": 330,
+        "discount": 50,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/1254720533/photo/chicken-biryani-with-yogurt-dip-popular-indian-pakistani-non-vegetarian-food.jpg?s=612x612&w=0&k=20&c=mnyhCsS3ysk3W37mpYfOsF2hSHA4a2CV3PDjr8aLdCU="
+      },
+      {
+        "id": 103,
+        "name": "Mutton Biryani",
+        "description": "Rich and aromatic mutton biryani, cooked with marinated mutton.",
+        "price": 350,
+        "actualPrice": 400,
+        "discount": 50,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/1430345748/photo/biryani-overhead-view.jpg?s=612x612&w=0&k=20&c=XTh_RyL2FE5BkVYKarmAAR6iIYSeEXcmTR80hLzzKsM="
+      },
+      {
+        "id": 104,
+        "name": "Vegetable Biryani",
+        "description": "A flavorful and aromatic biryani made with mixed vegetables.",
+        "price": 200,
+        "actualPrice": 250,
+        "discount": 50,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/179085494/photo/indian-biryani.jpg?s=612x612&w=0&k=20&c=VJAUfiuavFYB7PXwisvUhLqWFJ20-9m087-czUJp9Fs="
+      },
+      {
+        "id": 105,
+        "name": "Paneer Biryani",
+        "description": "Delicious and flavorful paneer biryani cooked with aromatic spices.",
+        "price": 300,
+        "actualPrice": 350,
+        "discount": 50,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/495188382/photo/indian-pulav-vegetable-rice-veg-biryani-basmati-rice.jpg?s=612x612&w=0&k=20&c=KQUBQt3PY-9IF31C0gvjrLFb9jZvp5mmLG6Vcxe1e7Q="
+      },
+      {
+        "id": 106,
+        "name": "Chicken Tikka Biryani",
+        "description": "A fusion of chicken tikka and biryani served with a tangy marinade.",
+        "price": 300,
+        "actualPrice": 350,
+        "discount": 50,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/1292436403/photo/chicken-tikka-biryani-made-of-basmati-rice-cooked-with-masala-spices-served-with-yogurt.jpg?s=612x612&w=0&k=20&c=Uj_BKjq966_84-Golt_Eit5RuzVSeeNhSVBjXAhrVTI="
+      },
+      {
+        "id": 107,
+        "name": "Kachi Biryani",
+        "description": "Traditional slow-cooked mutton biryani with marinated meat.",
+        "price": 350,
+        "actualPrice": 400,
+        "discount": 50,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/1716976168/photo/pilaf-kachchi-biryani-is-a-popular-meal-served-at-parties-celebrations-and-weddings-closeup.jpg?s=612x612&w=0&k=20&c=614Kw94X7qtt6nRTZ9lD6SscpmAK7cZeSVYD8kdbEiA="
+      },
+      {
+        "id": 108,
+        "name": "Shrimp Biryani",
+        "description": "A rich and flavorful biryani made with succulent shrimp and spices.",
+        "price": 350,
+        "actualPrice": 400,
+        "discount": 50,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/1957922787/photo/grilled-prawn-biryani-rice-served-in-clypot-dish-isolated-on-wooden-table-top-view-of-indian.jpg?s=612x612&w=0&k=20&c=Yi6LAGaJgIGO0Au1zS2sjEGNA0-O6VQFHhV6vpQVkkI="
+      },
+      {
+        "id": 109,
+        "name": "Beef Biryani",
+        "description": "A spicy and flavorful beef biryani cooked with tender beef and aromatic spices.",
+        "price": 350,
+        "actualPrice": 400,
+        "discount": 50,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/1407172002/photo/indian-spicy-mutton-biryani-with-raita-and-gulab-jamun-served-in-a-dish-side-view-on-grey.jpg?s=612x612&w=0&k=20&c=sYldtF2E_cSuYioPtcmM15arsnSs2mIgpuAKUDuuGoI="
+      },
+      {
+        "id": 110,
+        "name": "Fish Biryani",
+        "description": "A tangy and flavorful fish biryani cooked with tender fish fillets.",
+        "price": 350,
+        "actualPrice": 400,
+        "discount": 50,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/1334383300/photo/fish-biryani-spicy-and-delicious-malabar-biryani-or-hydrabadi-biryani-dum-biriyani.jpg?s=612x612&w=0&k=20&c=NHYmMWB3wFbILekgO0d9gEfDcOXTi-c9q-E0yT3Y9lU="
+      },
+      {
+        "id": 201,
+        "name": "Margherita Pizza",
+        "description": "Classic pizza topped with fresh tomatoes, mozzarella, and basil.",
+        "price": 200,
+        "actualPrice": 250,
+        "discount": 50,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/2184782832/photo/chicken-barbeque-pizza-in-a-wooden-platter.jpg?s=612x612&w=0&k=20&c=kjl6FrVIXSgXYBZsLVmpRTQMjsdZfcUYNxs5w0Is1PU="
+      },
+      {
+        "id": 202,
+        "name": "Pepperoni Pizza",
+        "description": "Topped with pepperoni, mozzarella cheese, and a rich tomato sauce.",
+        "price": 220,
+        "actualPrice": 270,
+        "discount": 50,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/1181651561/photo/oven-baked-pepperoni-pizza.jpg?s=612x612&w=0&k=20&c=YFV0_FvKZgm4g-LLBrOomNgFZSkMn6BQO9Tsxbx_xmk="
+      },
+      {
+        "id": 203,
+        "name": "Veggie Supreme Pizza",
+        "description": "A delightful mix of vegetables topped with mozzarella and cheddar.",
+        "price": 210,
+        "actualPrice": 260,
+        "discount": 50,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/842082336/photo/homemade-veggie-pizza-with-mushrooms-peppers.jpg?s=612x612&w=0&k=20&c=op1vZnGjlB_c3w6Z-ohPo0wn4QveujVKZu4vTZCOWnc="
+      },
+      {
+        "id": 204,
+        "name": "BBQ Chicken Pizza",
+        "description": "Grilled chicken with BBQ sauce and a savory mix of vegetables.",
+        "price": 230,
+        "actualPrice": 280,
+        "discount": 50,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/1313428794/photo/papa-johns-pizza-half-n-half-pizza-with-two-flavors-in-one.jpg?s=612x612&w=0&k=20&c=Iv-HOZvdEqzxRsIXGZ8sDR0bzEOSoP8c9LYBn_QM4PM="
+      },
+      {
+        "id": 205,
+        "name": "Hawaiian Pizza",
+        "description": "Topped with ham, pineapple, and mozzarella cheese.",
+        "price": 220,
+        "actualPrice": 270,
+        "discount": 50,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/839989162/photo/whats-on-your-pizza.jpg?s=612x612&w=0&k=20&c=WPFGd_UJJ-s0TgbM7AMm1I7GKqJQYSEziywXOZy4SWo="
+      },
+      {
+        "id": 206,
+        "name": "Cheese Lover's Pizza",
+        "description": "A pizza packed with all kinds of cheese for the true cheese lover.",
+        "price": 240,
+        "actualPrice": 290,
+        "discount": 50,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/1064244746/photo/concept-horizontal-promotional-flyer-and-poster-for-restaurant-pizzeria-menu-with-delicious.jpg?s=612x612&w=0&k=20&c=r4zNUkrFTp8Dky96MDJ6PeUTMCEdgYsinzABfqGnx74="
+      },
+      {
+        "id": 207,
+        "name": "Meat Feast Pizza",
+        "description": "Loaded with pepperoni, sausage, and bacon.",
+        "price": 250,
+        "actualPrice": 300,
+        "discount": 50,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/2179542720/photo/delicious-pizza-on-a-table-in-a-pizzeria-restaurant.jpg?s=612x612&w=0&k=20&c=_j7Q9vJ2RVXI1yL8KW5AUn9Ncok5-gPHyLbhGOQU_os="
+      },
+      {
+        "id": 208,
+        "name": "Spicy Pepper Pizza",
+        "description": "A spicy pizza with hot peppers and jalapeños.",
+        "price": 230,
+        "actualPrice": 280,
+        "discount": 50,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/1043604390/photo/butter-chicken-pizza.jpg?s=612x612&w=0&k=20&c=ahj3y6ktAvzcINubn0a0BfvovLTGDx_J_aMju4szqVQ="
+      },
+      {
+        "id": 209,
+        "name": "Chicken Alfredo Pizza",
+        "description": "Creamy alfredo sauce with grilled chicken and vegetables.",
+        "price": 250,
+        "actualPrice": 300,
+        "discount": 50,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/1283563594/photo/homemade-chicken-alfredo-pizza.jpg?s=612x612&w=0&k=20&c=kEaCo-6jGoOI208k9O7pzdxAIy4yCopsxLso9fMIukQ="
+      },
+      {
+        "id": 210,
+        "name": "Seafood Pizza",
+        "description": "A combination of shrimp, squid, and fish on a pizza.",
+        "price": 270,
+        "actualPrice": 320,
+        "discount": 50,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/1092023620/photo/seafood-pizza.jpg?s=612x612&w=0&k=20&c=gJycHI49Mp1o5t1Ps4xmw6P_YzEQ85yhQ1-hosA1u5Y="
+      },
+      {
+        "id": 301,
+        "name": "Beef Taco",
+        "description": "Taco with seasoned ground beef, lettuce, and cheese.",
+        "price": 150,
+        "actualPrice": 180,
+        "discount": 30,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/1318937207/photo/homemade-ground-beef-hard-shell-tacos.jpg?s=612x612&w=0&k=20&c=xfiHwiLx7R-ulZSSjr7sPey9BTi6vZSvQWTEy1eDJBA="
+      },
+      {
+        "id": 302,
+        "name": "Chicken Taco",
+        "description": "Taco with spicy chicken, salsa, and sour cream.",
+        "price": 150,
+        "actualPrice": 180,
+        "discount": 30,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/117178326/photo/tacos.jpg?s=612x612&w=0&k=20&c=bDgTIfp2yf_OFKAFA2FB4CJHh0I4UEFPjQCmo1BpV6I="
+      },
+      {
+        "id": 303,
+        "name": "Veggie Taco",
+        "description": "Taco with fresh veggies, guacamole, and cheese.",
+        "price": 140,
+        "actualPrice": 170,
+        "discount": 30,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/1307275916/photo/healthy-vegan-mushroom-tacos-serving-board-above-view-on-a-dark-wood-background.jpg?s=612x612&w=0&k=20&c=GSWaihst1fYFOvJz1GPCH-relU0wwwM3AyEej3S_upA="
+      },
+      {
+        "id": 304,
+        "name": "Fish Taco",
+        "description": "Taco with grilled fish, salsa, and creamy sauce.",
+        "price": 160,
+        "actualPrice": 190,
+        "discount": 30,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/542331706/photo/homemade-spicy-shrimp-tacos.jpg?s=612x612&w=0&k=20&c=fxx5deD9YgseQfLc3IFZpoMfwdq8Fb7jYimAjITs6TA="
+      },
+      {
+        "id": 305,
+        "name": "Pork Taco",
+        "description": "Taco with slow-cooked pork, onions, and cilantro.",
+        "price": 170,
+        "actualPrice": 200,
+        "discount": 30,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/1347087219/photo/assortment-of-delicious-authentic-tacos-birria-carne-asada-adobada-cabeza-and-chicharone.jpg?s=612x612&w=0&k=20&c=8TJspKsshMc6QN8aBgnbaMgMwKKHZuLKRq8D_BYj5Tw="
+      },
+      {
+        "id": 306,
+        "name": "Chicken Quesadilla",
+        "description": "Grilled flour tortilla filled with chicken, cheese, and peppers.",
+        "price": 200,
+        "actualPrice": 240,
+        "discount": 40,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/1267723486/photo/grilled-chicken-and-pesto-quesadilla-with-red-peppers-and-mozzarella.jpg?s=612x612&w=0&k=20&c=1DnwYtCRoFTi4Kp3imzGCrry2byhTXUKnlQ-GKFVQBw="
+      },
+      {
+        "id": 307,
+        "name": "Beef Burrito",
+        "description": "Flour tortilla filled with seasoned beef, rice, and beans.",
+        "price": 250,
+        "actualPrice": 280,
+        "discount": 30,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/1402871590/photo/beef-chimichanga-with-mole-sauce.jpg?s=612x612&w=0&k=20&c=xybs3kztP3aOWumgKGJO_KRpmtE08tTxNdM5R2SiUuk="
+      },
+      {
+        "id": 308,
+        "name": "Vegetarian Burrito",
+        "description": "Burrito with rice, beans, cheese, and fresh vegetables.",
+        "price": 230,
+        "actualPrice": 270,
+        "discount": 40,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/1393883938/photo/vegan-tortillas.jpg?s=612x612&w=0&k=20&c=pEG3MDSlelIR7oQoAQJFScDEH1CWBmlV-p6RA26Gk70="
+      },
+      {
+        "id": 309,
+        "name": "Taco Salad",
+        "description": "A fresh salad served with taco ingredients and dressing.",
+        "price": 180,
+        "actualPrice": 210,
+        "discount": 30,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/508341204/photo/taco-salad-in-a-tortilla-bowl.jpg?s=612x612&w=0&k=20&c=LR4MCERytRAfpkqEhBDGsDDgJyhwZIji_Rd4rrWEMKU="
+      },
+      {
+        "id": 310,
+        "name": "Nachos Supreme",
+        "description": "Tortilla chips topped with cheese, jalapeños, and sour cream.",
+        "price": 160,
+        "actualPrice": 190,
+        "discount": 30,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/1083438596/photo/nachos-supreme-mexican-food-nachos.jpg?s=612x612&w=0&k=20&c=2SyGooAB0lsVWstZ101hz7CQgZU6rDu1MQPD6ymuKJQ="
+      },
+      {
+        "id": 401,
+        "name": "Spaghetti Carbonara",
+        "description": "Classic Italian pasta with creamy egg sauce and pancetta.",
+        "price": 280,
+        "actualPrice": 320,
+        "discount": 40,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/910704720/photo/traditional-italian-dish-spaghetti-carbonara-with-bacon-in-a-cream-sauce.jpg?s=612x612&w=0&k=20&c=y0gC1tRAp2BCg_xegju6lmpTNKG4WElRrTxifx8enCo="
+      },
+      {
+        "id": 402,
+        "name": "Fettuccine Alfredo",
+        "description": "Rich and creamy fettuccine pasta with parmesan sauce.",
+        "price": 290,
+        "actualPrice": 330,
+        "discount": 40,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/664878332/photo/fettuchini-alfredo-with-garlic-bread-dinner.jpg?s=612x612&w=0&k=20&c=aYOwsF-UcMtlxS4rt0mefug80Xbz1VjwpjQnnubZiOQ="
+      },
+      {
+        "id": 403,
+        "name": "Penne Arrabbiata",
+        "description": "Penne pasta with spicy tomato sauce and chili.",
+        "price": 250,
+        "actualPrice": 290,
+        "discount": 40,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/482964545/photo/arrabiata-pasta.jpg?s=612x612&w=0&k=20&c=-PGU3gilnAEq1EccWXzdIvG18y9LsvegUX6ggt9Nk7w="
+      },
+      {
+        "id": 404,
+        "name": "Lasagna",
+        "description": "Layered pasta with beef, tomato sauce, and melted cheese.",
+        "price": 350,
+        "actualPrice": 400,
+        "discount": 50,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/1303741768/photo/italian-lasagna-with-tomato-sauce-and-cheese-served-with-tomatoes-and-spinach-light-concrete.jpg?s=612x612&w=0&k=20&c=bhXJi5_c3GTohG7BTu2pxLAanHqnw2FGeWSquuSsvwM="
+      },
+      {
+        "id": 405,
+        "name": "Baked Ziti",
+        "description": "Pasta with marinara sauce, mozzarella, and parmesan cheese.",
+        "price": 230,
+        "actualPrice": 270,
+        "discount": 40,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/543663322/photo/meat-lasagna.jpg?s=612x612&w=0&k=20&c=nYLF1yuCTxIMwQ0JjnAT3_fd7ZqsAds1RO4FOinimZ4="
+      },
+      {
+        "id": 406,
+        "name": "Mushroom Risotto",
+        "description": "Creamy risotto made with sautéed mushrooms and parmesan.",
+        "price": 300,
+        "actualPrice": 350,
+        "discount": 50,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/1369183332/photo/risotto-with-brown-champignon-mushrooms.jpg?s=612x612&w=0&k=20&c=hXubXk9pxjZbSR436lNbNWMrbGd37Y3v3DaopBoU84M="
+      },
+      {
+        "id": 407,
+        "name": "Seafood Pasta",
+        "description": "Pasta with shrimp, clams, and calamari in a creamy sauce.",
+        "price": 330,
+        "actualPrice": 380,
+        "discount": 50,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/1129614168/photo/traditional-italian-seafood-pasta-with-clams-spaghetti-alle-vongole-in-the-pan.jpg?s=612x612&w=0&k=20&c=vAk8JPlqN8H2Wew5hWa_mnERk2sxns98PZDvpbSFSJ4="
+      },
+      {
+        "id": 408,
+        "name": "Pasta Primavera",
+        "description": "Pasta with fresh vegetables in a light garlic sauce.",
+        "price": 250,
+        "actualPrice": 290,
+        "discount": 40,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/626265714/photo/rotini-primavera-in-a-browned-butter-and-garlic-sauce.jpg?s=612x612&w=0&k=20&c=lJr8dsxpyrXNgssFhRJnGkeu3iO2XRzptWO3C90YhRw="
+      },
+      {
+        "id": 409,
+        "name": "Chicken Pesto Pasta",
+        "description": "Pasta with grilled chicken and a basil pesto sauce.",
+        "price": 280,
+        "actualPrice": 330,
+        "discount": 50,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/1134995315/photo/penne-pasta-with-spinach-sun-dried-tomatoes-and-chicken-sprinkled-with-parmesan-cheese-and.jpg?s=612x612&w=0&k=20&c=zyc4_56UrmnPrXC8oTFqc7_wohzFq_fptRM3SwOTCvA="
+      },
+      {
+        "id": 410,
+        "name": "Ravioli",
+        "description": "Pasta filled with ricotta cheese and spinach, served with marinara sauce.",
+        "price": 270,
+        "actualPrice": 320,
+        "discount": 50,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/1339854693/photo/pumpkin-filled-ravioli-pasta-above-table-scene-on-a-dark-background.jpg?s=612x612&w=0&k=20&c=o8s1T8H-XaueP9R3X4z1mCMCK7R8QyZl3fwriJe9M48="
+      },
+      {
+        "id": 501,
+        "name": "California Roll",
+        "description": "Crispy roll with crab, avocado, and cucumber.",
+        "price": 350,
+        "actualPrice": 400,
+        "discount": 50,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/184334719/photo/california-roll.jpg?s=612x612&w=0&k=20&c=exMYE6XlLQ2-M2EONSjPUNqZUERImkE6z9XrQdujGvw="
+      },
+      {
+        "id": 502,
+        "name": "Tuna Sashimi",
+        "description": "Fresh tuna slices served with soy sauce.",
+        "price": 400,
+        "actualPrice": 450,
+        "discount": 50,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/637543608/photo/japanese-food.jpg?s=612x612&w=0&k=20&c=ocvDSvzCaq_Kmp5KA-ULIZLR5HrVv-Vd3r1-R0wpQqM="
+      },
+      {
+        "id": 503,
+        "name": "Salmon Roll",
+        "description": "Salmon with avocado, cucumber, and spicy mayo in a sushi roll.",
+        "price": 370,
+        "actualPrice": 420,
+        "discount": 50,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/2106138100/photo/tuna-and-salmon-rolls-with-cucumber-and-tobiko-caviar.jpg?s=612x612&w=0&k=20&c=nlPR5VZVxRHefabh324bKaJEK637taCQGq8UVbs2LOQ="
+      },
+      {
+        "id": 504,
+        "name": "Tempura Shrimp",
+        "description": "Crispy tempura shrimp served with dipping sauce.",
+        "price": 250,
+        "actualPrice": 300,
+        "discount": 50,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/1295409972/photo/crispy-fried-shrimp-tempura-shrimp-tempura-japanese-national-food-delicious-and-healthy.jpg?s=612x612&w=0&k=20&c=EJX20NqAFJXzarWOkKFytDaKlUFfJ8F_tuBvoKcvsFo="
+      },
+      {
+        "id": 505,
+        "name": "Dragon Roll",
+        "description": "Spicy tuna, cucumber, and avocado wrapped in eel and drizzled with eel sauce.",
+        "price": 400,
+        "actualPrice": 450,
+        "discount": 50,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/1221824627/photo/sushi-dragon-with-eel-and-avocado-on-a-black-background-with-reflection.jpg?s=612x612&w=0&k=20&c=hc2DtoFtHJ5Xq22Z4ampaRm9edHGAgnYYnOXqbE7Ogw="
+      },
+      {
+        "id": 506,
+        "name": "Unagi Roll",
+        "description": "Grilled eel, avocado, and cucumber in a sushi roll.",
+        "price": 390,
+        "actualPrice": 440,
+        "discount": 50,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/1144739475/photo/sushi-rolls-japanese-food-over-black-background-sushi-roll-with-salmon-tofu-vegetables-and.jpg?s=612x612&w=0&k=20&c=167x0V5P8exnnz7BODAO1nSVuCMjcYxTcS4SMi_lJ-Q="
+      },
+      {
+        "id": 507,
+        "name": "Maki Roll",
+        "description": "Traditional sushi roll with tuna, avocado, and cucumber.",
+        "price": 300,
+        "actualPrice": 350,
+        "discount": 50,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/157585583/photo/close-up-photo-of-futomaki-sushi-on-a-blue-plate.jpg?s=612x612&w=0&k=20&c=ym5j-B37tR2MbgpAzBvDELXmTFaGgW1iqql97s5SHD8="
+      },
+      {
+        "id": 508,
+        "name": "Ebi Nigiri",
+        "description": "Shrimp nigiri with wasabi and soy sauce.",
+        "price": 330,
+        "actualPrice": 380,
+        "discount": 50,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/1319654469/photo/boiled-shrimp-in-a-plate-on-a-wooden-background.jpg?s=612x612&w=0&k=20&c=-C9l_HfoXx609eB-Z7mlHkzSxaELagr5QVamdorak2Y="
+      },
+      {
+        "id": 509,
+        "name": "Spicy Tuna Roll",
+        "description": "Spicy tuna with cucumber and avocado in a sushi roll.",
+        "price": 350,
+        "actualPrice": 400,
+        "discount": 50,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/1400729413/photo/sushi-assortment-on-dark-background.jpg?s=612x612&w=0&k=20&c=dj5NlA7JM-rpNif7aBSzIhKIdBmxQs1RQPp5IVLhik8="
+      },
+      {
+        "id": 510,
+        "name": "Rainbow Roll",
+        "description": "California roll topped with fresh fish and avocado.",
+        "price": 380,
+        "actualPrice": 430,
+        "discount": 50,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/183047783/photo/rainbow-rolls.jpg?s=612x612&w=0&k=20&c=Mxkof40vIvSSq7mCNnvaGoB4xxM1KFQlHjd6ECTVxGo="
+      },
+      {
+        "id": 601,
+        "name": "Classic Cheeseburger",
+        "description": "Juicy beef patty with melted cheese, lettuce, and tomato.",
+        "price": 220,
+        "actualPrice": 260,
+        "discount": 40,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/1215569804/photo/fresh-and-juicy-hamburger-on-a-paper-pillow-with-beer-on-a-wooden-table-dark-background.jpg?s=612x612&w=0&k=20&c=9sZEpxLpqjsPjZUaiGgG0BIkbfowzIb4jeIPggR8pcM="
+      },
+      {
+        "id": 602,
+        "name": "Bacon Burger",
+        "description": "Beef patty with crispy bacon, lettuce, and cheese.",
+        "price": 240,
+        "actualPrice": 280,
+        "discount": 40,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/1268633454/photo/bacon-cheeseburger-with-fries.jpg?s=612x612&w=0&k=20&c=h3mnkF7EBRCqDlyl6GwGk2-Jswlml7U6z0pqdCO1Ei8="
+      },
+      {
+        "id": 603,
+        "name": "Veggie Burger",
+        "description": "Grilled vegetable patty with lettuce, tomato, and pickles.",
+        "price": 200,
+        "actualPrice": 240,
+        "discount": 40,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/905921648/photo/healthy-baked-sweet-potato-burger-with-whole-grain-bun-guacamole-vegan-mayonnaise-and.jpg?s=612x612&w=0&k=20&c=7mrEKIn1cQbN0Q6k3ONHPsaN3jmsYz_X7YExQIOqG9A="
+      },
+      {
+        "id": 604,
+        "name": "Chicken Burger",
+        "description": "Grilled chicken breast with lettuce, tomato, and mayo.",
+        "price": 230,
+        "actualPrice": 270,
+        "discount": 40,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/1265242728/photo/crispy-chicken-burger-with-cheese-tomato-onions-and-lettuce.jpg?s=612x612&w=0&k=20&c=WRl1S0zNx1YeVOH6ceB92FN9STcsMB0F5xu-LlgfQ3M="
+      },
+      {
+        "id": 605,
+        "name": "BBQ Burger",
+        "description": "Beef patty with BBQ sauce, cheddar cheese, and crispy onions.",
+        "price": 250,
+        "actualPrice": 290,
+        "discount": 40,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/484823830/photo/huge-gourmet-cheese-burgers-on-a-rustic-wooden-table-outdoors.jpg?s=612x612&w=0&k=20&c=7ODYAsMJCAibTKzYedt_lDhYerlPY4DTLxr41c4EEd4="
+      },
+      {
+        "id": 606,
+        "name": "Cheese Fries",
+        "description": "Crispy fries topped with melted cheddar cheese.",
+        "price": 150,
+        "actualPrice": 180,
+        "discount": 30,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/1316682795/photo/a-large-bowl-of-gourmet-black-truffle-french-fries-in-a-bowl-sprinkled-with-shredded-parmesan.jpg?s=612x612&w=0&k=20&c=xG3d0d5VlbsOW8ymBMwZYvIotjrylS9aky92UH9THVU="
+      },
+      {
+        "id": 607,
+        "name": "Onion Rings",
+        "description": "Crispy battered onion rings served with dipping sauce.",
+        "price": 130,
+        "actualPrice": 160,
+        "discount": 30,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/185258609/photo/cooked-onion-rings-with-dipping-sauce-in-a-white-cup.jpg?s=612x612&w=0&k=20&c=L3YxKua51znCZWzW9cG3rGShsBwVWyghvMiJNjW0fMw="
+      },
+      {
+        "id": 608,
+        "name": "Fries",
+        "description": "Classic golden fries served with ketchup.",
+        "price": 100,
+        "actualPrice": 130,
+        "discount": 30,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/1218213212/photo/homemade-french-fries-with-ketchup-and-mayonnaise-on-rustic-wooden-table.jpg?s=612x612&w=0&k=20&c=pcDdMy3oCZ1g_-0nWtmo0nZpbg2W7wdRjjNcMTKdN7U="
+      },
+      {
+        "id": 609,
+        "name": "Milkshake",
+        "description": "Creamy milkshake in chocolate, vanilla, or strawberry flavor.",
+        "price": 180,
+        "actualPrice": 210,
+        "discount": 30,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/170169190/photo/a-cinnamon-chocolate-and-strawberry-smoothie.jpg?s=612x612&w=0&k=20&c=d2OUzLUgYVIZ5dPS2RcOfdyjuayIJAXl-b_yXZsYKGo="
+      },
+      {
+        "id": 610,
+        "name": "Double Cheeseburger",
+        "description": "Two juicy beef patties, cheese, lettuce, and pickles.",
+        "price": 280,
+        "actualPrice": 320,
+        "discount": 40,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/1142440558/photo/bacon-and-egg-double-cheeseburger-with-fries.jpg?s=612x612&w=0&k=20&c=nUJBGakC88lWWS-EDNOs2JByvS3XGkEmFs1Qzisaia4="
+      },
+      {
+        "id": 701,
+        "name": "Chicken Taco",
+        "description": "Grilled chicken with lettuce, cheese, and salsa.",
+        "price": 180,
+        "actualPrice": 220,
+        "discount": 40,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/1289721020/photo/chicken-street-tacos-with-avocado-cucumber-fresh-spinach-leaves-pepper-strips-and-onion-on-a.jpg?s=612x612&w=0&k=20&c=iucqAoH1Hr_aO8mHkzekUet-j1zohm7wNgFqlJzHJsY="
+      },
+      {
+        "id": 702,
+        "name": "Beef Taco",
+        "description": "Seasoned beef with cheese, salsa, and sour cream.",
+        "price": 190,
+        "actualPrice": 230,
+        "discount": 40,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/1302259921/photo/beef-tacos-with-lettuce-and-tomato.jpg?s=612x612&w=0&k=20&c=MKPsPvYDVETm5WqGVogTLc_LRA2E2SJvadJNp0K2KUg="
+      },
+      {
+        "id": 703,
+        "name": "Veggie Taco",
+        "description": "Grilled vegetables with lettuce, cheese, and avocado.",
+        "price": 170,
+        "actualPrice": 210,
+        "discount": 40,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/1272532786/photo/three-carne-asada-mexican-street-tacos-in-corn-tortilla-with-lime.jpg?s=612x612&w=0&k=20&c=0vgerffCRSi_YaFoXV-ozaN5AZQ5uzOajrdvH6ZR_EU="
+      },
+      {
+        "id": 704,
+        "name": "Fish Taco",
+        "description": "Crispy fish fillets with cabbage slaw and chipotle mayo.",
+        "price": 210,
+        "actualPrice": 250,
+        "discount": 40,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/1250948988/photo/fish-tacos-served-on-homemade-corn-tortilla-with-shredded-cabbage-grilled-corn-queso-fresca.jpg?s=612x612&w=0&k=20&c=DscZQbOrVy82OTHOiUpolZTP_wP7oYqHhHlBmU0mhmI="
+      },
+      {
+        "id": 705,
+        "name": "Pork Taco",
+        "description": "Tender pulled pork with cilantro, onions, and salsa.",
+        "price": 200,
+        "actualPrice": 240,
+        "discount": 40,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/1347087219/photo/assortment-of-delicious-authentic-tacos-birria-carne-asada-adobada-cabeza-and-chicharone.jpg?s=612x612&w=0&k=20&c=8TJspKsshMc6QN8aBgnbaMgMwKKHZuLKRq8D_BYj5Tw="
+      },
+      {
+        "id": 706,
+        "name": "Nachos",
+        "description": "Crispy tortilla chips with melted cheese and salsa.",
+        "price": 150,
+        "actualPrice": 180,
+        "discount": 30,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/923417364/photo/nachos-chips-with-melted-cheese-and-dips-variety-in-black-bowl-grey-stone-background.jpg?s=612x612&w=0&k=20&c=dlb4x3gcYELCh4DqXLGaOzxay2UDtHPFumbrv7ZyYoU="
+      },
+      {
+        "id": 707,
+        "name": "Quesadilla",
+        "description": "Grilled flour tortilla with cheese and your choice of protein.",
+        "price": 230,
+        "actualPrice": 270,
+        "discount": 40,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/1174305985/photo/steak-and-pepper-quesadilla.jpg?s=612x612&w=0&k=20&c=110lLBLc0MsGLFQDkjQFtsM1BP_8cMvdSh_PJDGCbgM="
+      },
+      {
+        "id": 708,
+        "name": "Guacamole",
+        "description": "Creamy avocado dip served with tortilla chips.",
+        "price": 180,
+        "actualPrice": 220,
+        "discount": 40,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/509686328/photo/avocado-dip.jpg?s=612x612&w=0&k=20&c=vOtdIp1MN69tEbNFev5PMJIcdXk1HZqxhrkx7oegtV8="
+      },
+      {
+        "id": 709,
+        "name": "Taco Salad",
+        "description": "Crispy taco shell filled with lettuce, cheese, salsa, and choice of protein.",
+        "price": 230,
+        "actualPrice": 270,
+        "discount": 40,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/2148616991/photo/dietary-grilled-tacos-with-chicken-fillet-lettuce-on-a-plate-on-the-table.jpg?s=612x612&w=0&k=20&c=xxC9s_WsDRSnf_rEbPjK2BT2TuZ-kvVD0GSu-0C-UGk="
+      },
+      {
+        "id": 710,
+        "name": "Churros",
+        "description": "Crispy fried dough with cinnamon sugar, served with chocolate sauce.",
+        "price": 160,
+        "actualPrice": 190,
+        "discount": 30,
+        "quantity": 0,
+        "img": "https://media.istockphoto.com/id/1355431081/photo/traditional-spanish-dessert-churros-fried-choux-pastry-with-chocolate-sauce.jpg?s=612x612&w=0&k=20&c=mZ1KPrhn7IEIRqQBP2KwVljOWNr1EweIYqya5EJqSh8="
+      }
+    ]
+  ]
+}

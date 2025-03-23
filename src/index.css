@@ -1,0 +1,44 @@
+.login-container{
+    background-image: url("https://media.istockphoto.com/id/1163284610/photo/very-stylish-indian-gourmet-restaurant.jpg?s=612x612&w=0&k=20&c=-0Bz0mNjnrDoXApfo6P_xBrKmIMPZYJwQ5zAGEpzThI=");
+    height: 100vh;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.loginDetails{
+    text-align: left;
+    font-weight: 500;
+    width: 25rem;
+    height: auto;
+    padding: 1rem;
+    box-shadow: 0px 0px 10px;
+    background-color: chocolate; 
+}
+.inputElement{
+    border: none;
+    background-color: rgb(212, 214, 215);
+    border-radius: 5px;
+    padding:8px;
+    
+    &::placeholder{
+        padding: 10px 5px;
+
+    }
+    &:focus{
+        outline: none;
+    }
+}
+.button-container{
+    margin: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.submitBtn{
+    width: 10rem;
+    display: inline;
+    height: 2.5rem;
+    margin-right: 10px;
+}
+

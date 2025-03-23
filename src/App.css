@@ -1,0 +1,126 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Urbanist" ,sans-serif;
+    user-select: none;
+}
+html{
+    scroll-behavior: smooth;
+}
+
+.nav-link{
+    color: white;
+    font-size: 5rem; 
+}
+.nav-item{
+    color: antiquewhite;
+}
+
+.cart-badge{
+    height: 24px;
+    width: 24px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+.cart-container span{
+    padding: 0 3px;
+}
+.logo{
+    object-fit: cover;
+    object-position: center;
+    width: 40px;
+    height: auto;
+    border-radius: 2rem;
+}
+
+span{
+    margin-right: 10px;
+}
+.orginal-price{
+    text-decoration: line-through;
+}
+ .discount{
+    color: hwb(17 0% 0%);
+}
+
+
+
+/*card-summary price-section */
+.price-section{
+    display: flex;
+    justify-content: space-between;
+    margin: 8px 0;
+   
+}
+.spinner-border{
+    margin: 5rem 0px;
+    padding: 2rem;
+}
+.orderdone-icon{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 2.5rem auto;
+}
+.ProductItem-card{
+    height:351px;
+    width:265px;
+    box-shadow: 0px 5px 15px rgba(0,0,0,0.35); 
+    margin: 10px; 
+    padding: 1rem;
+    text-align: center;
+}
+.shimmercard{
+    background-color: #cccccc;
+}
+
+
+
+.menu {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.menu.show {
+  display: flex;
+}
+
+.hamburger {
+  display: none;
+  cursor: pointer;
+}
+
+@media (max-width: 768px) {
+
+ 
+    .ProductItem-card{
+        height:351px;
+        width:350px;
+    }
+  .hamburger {
+    display: block;
+  }
+
+  .menu {
+    display: none;
+    flex-direction: column;
+    gap: 10px;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: #333;
+    width: 100%;
+    padding: 10px;
+    transition: all 0.3s ease-in-out;
+    z-index: 10;
+  }
+
+  .menu.show {
+    display: flex;
+  }
+}
