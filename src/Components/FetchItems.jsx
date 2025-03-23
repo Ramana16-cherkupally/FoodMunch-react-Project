@@ -6,7 +6,7 @@ import { FetchStatusActions } from "../store/FetchStatusSlice";
 export const FetchItems = () => {
   const fetchstatus = useSelector((store) => store.fetchstatus);
   const dispatch = useDispatch();
-  const backendUrl = process.env.REACT_APP_BACKEND_URL;
+
   useEffect(() => {
     if (fetchstatus.fetchDone) return; // ✅ Skip fetch if already done
 
@@ -16,7 +16,7 @@ export const FetchItems = () => {
 
     dispatch(FetchStatusActions.FetchingStarted());
 
-    fetch(`${backendUrl}/items`, { signal })
+    fetch("http://localhost:9002/items", { signal })
       .then((res) => {
         if (!res.ok) throw new Error(`Failed with status ${res.status}`);
         return res.json();
@@ -36,8 +36,6 @@ export const FetchItems = () => {
           console.log("⚠️ Fetch was aborted (cleanup or unmount)");
         } else {
           console.error("❌ Error fetching items:", error.message || error);
-          // You could dispatch an error state to show in UI, e.g.:
-          dispatch(FetchStatusActions.FetchingFailed(error.message));
         }
       })
       .finally(() => {
