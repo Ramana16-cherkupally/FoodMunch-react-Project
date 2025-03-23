@@ -1,17 +1,16 @@
 {
-  "name": "reactstates",
+  "name": "foodmunch-frontend",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
-"scripts": {
-  "server": "nodemon src/Backend-Server/app.js",
-  "client": "vite",
-  "dev": "concurrently \"npm run server\" \"npm run client\"",
-  "build": "vite build",
-  "lint": "eslint .",
-  "preview": "vite preview"
-},
-
+  "scripts": {
+    "server": "nodemon src/Backend-Server/app.js",
+    "client": "vite",
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
   "dependencies": {
     "@reduxjs/toolkit": "^2.5.0",
     "bootstrap": "^5.3.3",
